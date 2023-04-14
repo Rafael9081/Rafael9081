@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rafael9081
 - 👀 I’m interested in ... Python, JavaScript, PowerApps 
-- 🌱 I’m currently learning ... JavaScript, PowerApps 
+- 🌱 I’m currently learning ... HTML, CSS, JavaScript, PowerApps, Dynamics 365
 - 💞️ I’m looking to collaborate on ... JavaScript PowerApps 
 - 📫 How to reach me ...
 
