@@ -10,7 +10,7 @@ Olá! Meu nome é Rafael Sousa e sou estudante de Engenharia de Software. Tenho 
 
 ## Contato
 - LinkedIn: [Rafael Sousa](https://www.linkedin.com/in/rafaelsousa)
-- Email: rafael.sousa@email.com
+- Email: rafael9081@gmail.com
 
 Sinta-se à vontade para entrar em contato comigo para discutir colaborações, projetos ou apenas para bater um papo sobre tecnologia!
 
