@@ -4,10 +4,10 @@
 Olá! Meu nome é Rafael Sousa e sou estudante de Engenharia de Software. Tenho paixão pela área de backend e estou atualmente aprendendo **C#** e **Python**. Além disso, sou um entusiasta das tecnologias da Microsoft, como **Dynamics 365** e **Power Platform**.
 
 ## Habilidades
-- **Linguagens de Programação**: C#, Python
+- **Linguagens de Programação**: ABAP, C#, Java, Python. 
 - **Áreas de Interesse**: Backend, Desenvolvimento Web
 - **Tecnologias Microsoft**: Dynamics 365, Power Platform
-
+- **SAP** 
 ## Contato
 - LinkedIn: [Rafael Sousa](https://www.linkedin.com/in/rafaelsousa)
 - Email: rafael9081@gmail.com
